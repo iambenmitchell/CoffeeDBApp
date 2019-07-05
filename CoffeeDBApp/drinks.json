@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1001,
+        "name":"Cappuccino",
+        "imageName":"Cappuccino",
+        "description":"A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milk, and flavoring with cinnamon or chocolate powder",
+        "category":"hot"
+    },
+    {
+        "id": 1002,
+        "name":"Espresso",
+        "imageName":"Espresso",
+        "description":"Espresso is coffee of Italian origin, brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans. Espresso is generally thicker than coffee brewed by other methods, has a higher concentration of suspended and dissolved solids, and has crema on top.",
+        "category":"hot"
+    },
+    {
+        "id": 1003,
+        "name":"Latte macchiato",
+        "imageName":"LatteMacchiato",
+        "description":"Latte macchiato is a coffee beverage; the name literally means stained milk. This refers to the method of preparation, wherein the milk is stained by the addition of espresso.",
+        "category":"hot"
+    },
+    {
+        "id": 1004,
+        "name":"Iced Latte",
+        "imageName":"IcedLatte",
+        "description":"To make the iced caffe latte: Combine the prepared espresso, sweetener, half and half, milk, and ice cubes in a blender. Blend until the ingredients are completely mixed. Pour into glasses and serve with whipped cream, if desired.",
+        "category":"cold"
+    },
+    {
+        "id": 1005,
+        "name":"Iced Espresso",
+        "imageName":"IcedEspresso",
+        "description":"For the Iced Drinks: Brew espresso shots using a coffee machine. Add ice to a large glass, then pour espresso shots and milk over top. Add in 1-2 tbsp syrup of your choice. Serve and enjoy!",
+        "category":"cold"
+    }
+]
