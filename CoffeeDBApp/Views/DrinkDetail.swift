@@ -54,6 +54,7 @@ struct DrinkDetail : View {
         }
             .edgesIgnoringSafeArea(.top)
             .navigationBarHidden(true)
+        
     }
 }
 
