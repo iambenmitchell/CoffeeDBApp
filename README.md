@@ -5,4 +5,4 @@ Based on this: https://www.youtube.com/watch?v=Xetrbmnszjc
 There are so many issues in the beta 3 and 1 version. 
 
 Official download: https://download.developer.apple.com/Developer_Tools/Xcode_11_Beta_2/Xcode_11_Beta_2.xip
-![](Demo.gif =200x100)
+![](Demo.gif)
